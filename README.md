@@ -1,0 +1,1 @@
+# NazareAI-Senior-Marketing-Strategist
