@@ -13,12 +13,7 @@ NarazeAI AI Workforce: https://seedgularity.com/nazareai-ai-workforce/
 
 ### Video Demo
 
-A short demo illustrating how NazareAI’s Senior Marketing Strategist model crafts an entire presentation from a simple prompt.
-
-<video width="800" height="600" controls>
-  <source src="https://seedgularity.com/wp-content/uploads/2024/12/NazareAI.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Can be found on model site: https://huggingface.co/seedgularity/NazareAI-Senior-Marketing-Strategist
 
 ### Features
 - **Role-Specific Expertise**  
