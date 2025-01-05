@@ -2,6 +2,10 @@
 
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/63bb3f12595fa15f4e4cb368/9srykPPAM5qVeWelLmSUx.png)
 
+### Model
+
+https://huggingface.co/seedgularity/NazareAI-Senior-Marketing-Strategist
+
 ### Overview
 **NazareAI** is redefining the workforce with its **Autonomous AI Workforce** solution—tackling scalability, cost, and efficiency challenges in one fell swoop. This demo spotlights the **Senior Marketing Strategist** AI, a specialized agent engineered to deliver expert-level insights, strategies, and actionable guidance for modern marketing campaigns.
 
